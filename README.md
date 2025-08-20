@@ -1,36 +1,67 @@
-<img width="1600" height="900" alt="timesjobs_scraping_cover" src="https://github.com/user-attachments/assets/fdb55994-fd79-40fe-82d7-6dfb66a8cdb6" />
+<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/a1b8a8d0-8684-46a9-8536-e39cd9476acd" />
 
-SRINIVAS BHAIRI | Data Scientist Aspirant
-[Connect me on LinkedIn](https://www.linkedin.com/in/srinivas-bhairi)
-Description:
-Developed a Python-based web scraping solution to extract job data from TimesJobs.com. The goal was to automate job listing extraction and prepare structured datasets for analysis.
 
-Tech Stack:
+# **SRINIVAS BHAIRI | Data Scientist Aspirant**
 
-Python
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/srinivas-bhairi)
 
-Libraries: BeautifulSoup, Requests, Pandas, Matplotlib
+---
 
-Google Colab for implementation
+## 📌 Project: Web Scraping TimesJobs.com
 
-Workflow:
+**Objective**
+Developed an automated **Python-based web scraping solution** to extract and analyze job listings from **TimesJobs.com**, transforming unstructured web data into actionable insights.
 
-Identified the HTML structure of job postings.
+---
 
-Used requests + BeautifulSoup to scrape job details.
+### 🛠 Tech Stack
 
-Cleaned & structured the data with Pandas.
+* **Programming Language:** Python
+* **Libraries:** BeautifulSoup, Requests, Pandas, Matplotlib
+* **Environment:** Google Colab
 
-Exported the dataset to a CSV file.
+---
 
-Performed exploratory data analysis using Matplotlib.
+### 🔄 Workflow
 
-Results:
+1. **Website Analysis** – Inspected HTML structure to locate job-related elements.
+2. **Data Extraction** – Utilized `requests` and `BeautifulSoup` to scrape job details.
+3. **Data Wrangling** – Cleaned and structured the extracted information into a **Pandas DataFrame**.
+4. **Data Storage** – Exported the dataset into a **CSV file** for easy accessibility.
+5. **Exploratory Data Analysis** – Leveraged Matplotlib to visualize job trends.
 
-Extracted 25 job postings with details on Company, Location, Experience, and Salary.
+---
 
-Found Hyderabad, Bengaluru, and Gurgaon as the top job markets.
+### 📊 Results & Insights
 
-Most roles required 5–8 years of experience.
+* ✅ Extracted **25 job postings** containing details on **Company, Location, Experience, and Salary**.
+* 🌍 Identified **Hyderabad, Bengaluru, and Gurgaon** as the top job markets.
+* 👔 Found majority of roles required **5–8 years of experience**.
+* 📂 Delivered both **structured dataset** (CSV) and **visual insights** for further analysis.
 
-Delivered both CSV dataset and data visualizations.
+---
+
+### 🚀 Key Learnings
+
+* Gained hands-on experience in **web scraping workflow** (HTML parsing → data extraction → cleaning → storage).
+* Enhanced skills in **data cleaning and visualization**.
+* Improved ability to **transform raw web data into actionable insights** for decision-making.
+
+### 📊 Insights from TimesJobs Scraping
+
+* Top Job Locations
+
+  Most jobs are concentrated in Hyderabad/Secunderabad, Bengaluru, and Gurgaon.
+
+  Other cities like Nagpur, Noida, Mumbai also appear but with fewer postings.
+
+* Top Experience Ranges Required
+
+ The majority of postings demand 5–8 years of experience.
+
+ 3–5 years and 2–5 years also have a strong demand.
+
+ Very few jobs are for entry-level (1–3 years).
+
+---
+

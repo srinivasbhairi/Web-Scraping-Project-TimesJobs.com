@@ -57,11 +57,11 @@ Developed an automated **Python-based web scraping solution** to extract and ana
 
 * Top Experience Ranges Required
 
- The majority of postings demand 5–8 years of experience.
+   The majority of postings demand 5–8 years of experience.
 
- 3–5 years and 2–5 years also have a strong demand.
+   3–5 years and 2–5 years also have a strong demand.
 
- Very few jobs are for entry-level (1–3 years).
+   Very few jobs are for entry-level (1–3 years).
 
 ---
 
